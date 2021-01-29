@@ -1,2 +1,2 @@
-# mudita-os
-Test repo for Mudita OS releases
+# os-test
+Test releases
